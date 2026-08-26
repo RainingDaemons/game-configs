@@ -1,0 +1,4 @@
+# Specify 1 workshop item id per line
+3537701319
+3788439464
+2824816332
